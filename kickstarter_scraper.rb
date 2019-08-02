@@ -11,4 +11,6 @@ def create_project_hash
   hash = {
     
   }
+  
+  create_project_hash
 end
